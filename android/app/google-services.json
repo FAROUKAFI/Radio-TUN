@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112439528013",
+    "project_id": "radio-notification-b8a02",
+    "storage_bucket": "radio-notification-b8a02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112439528013:android:6a188d7de0ebdd1f51aa04",
+        "android_client_info": {
+          "package_name": "com.projet.mobile.radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112439528013-9suhgvsqb1m4me515i274086l5t2v10i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2hEgfxWaTWu6GnXqce7sBRVkvvhPdVNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112439528013-9suhgvsqb1m4me515i274086l5t2v10i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
